@@ -1,0 +1,9 @@
+include LICENSE
+include README.md
+include README.rst
+include VERSION
+include bin/elzzur
+recursive-include elzzur/res *
+exclude elzzur/res/*.aspell
+recursive-include licenses *
+include requirements.txt

@@ -1,0 +1,6 @@
+*.pyc
+*.aspell
+__pycache__
+dist
+elzzur.egg-info
+zzz_*
